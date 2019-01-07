@@ -26,3 +26,8 @@ void trans()
      product = product * p;
  }
 }
+
+void slove()
+{
+
+}
